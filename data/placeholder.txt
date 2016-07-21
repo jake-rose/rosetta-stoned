@@ -1,1 +1,3 @@
 Placeholder data file
+
+Information in here is used only for local storage when offline
