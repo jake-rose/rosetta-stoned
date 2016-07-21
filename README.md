@@ -1,7 +1,7 @@
-# rosetta-stoned
-# Developed by Jake and Brendan
-# Who even reads the readme?
-# You're silly
+# Rosetta-Stoned
+#   Developed by Jake, Brendan, Max and Terrterr
+#   Who even reads the readme?
+#   You're silly
 
 
 
